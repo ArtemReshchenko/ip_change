@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Project specific
+progress.json
+config.json
+
+# (config.json is ignored to prevent leaking actual private key names and configurations. 
+# Use config.example.json as a template instead.)

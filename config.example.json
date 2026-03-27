@@ -1,0 +1,17 @@
+{
+  "keys_directory": "~/Documents/keys",
+  "browser_url": "https://cabinet.tax.gov.ua/",
+  "open_browser": true,
+  "mappings": [
+    {
+      "key_file": "petrov_key.dat",
+      "label": "ФОП Петров",
+      "country": "Germany"
+    },
+    {
+      "key_file": "ivanov_key.jks",
+      "label": "ТОВ Карпати",
+      "country": "France"
+    }
+  ]
+}
